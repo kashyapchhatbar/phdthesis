@@ -1,0 +1,6 @@
+[submodule "MeCP2_2022_manuscript"]
+	path = MeCP2_2022_manuscript
+	url = https://github.com/kashyapchhatbar/MeCP2_2022_manuscript
+[submodule "SHAP-analysis"]
+	path = SHAP-analysis
+	url = https://github.com/kashyapchhatbar/SHAP-analysis
