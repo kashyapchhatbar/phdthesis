@@ -10,6 +10,10 @@ The repository is organized into the following folders:
 
 This folder contains the analysis pipeline and scripts related to the study on whether MeCP2 binds to CA repeats [![DOI](https://img.shields.io/badge/Manuscript-10.26508%2Flsa.202201522-%232B519E)](https://doi.org/10.26508/lsa.202201522). 
 
+#### SALL4_manuscript
+
+This folder contains the processed data, analysis pipeline and scripts related to the study related to how SALL4 influences AT-rich gene regulation [![DOI](https://img.shields.io/badge/Manuscript-10.1016%2Fj.molcel.2020.11.046-%232B519E)](https://doi.org/10.1016/j.molcel.2020.11.046).
+
 #### SHAP-analysis
 
 This folder includes the machine learning models and explainable AI (XAI) approaches used to infer regulatory interactions in transcriptional regulation [![DOI](https://img.shields.io/badge/bioR%CF%87iv%20DOI-10.1101%2F2025.01.30.635704%20-BC2635)](https://doi.org/10.1101/2025.01.30.635704)
